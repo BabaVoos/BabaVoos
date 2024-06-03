@@ -1,21 +1,74 @@
-<h1 align="center">Hi 👋, I'm Mudar Al-Najjar</h1>
-<h3 align="center">Mobile App developer</h3>
+<div align="start">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mudar!;" />
+</div>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-- 🌱 I’m currently learning **Mobile App development**
+**In Gotham or GitHub, even Batman believes in lifelong learning 🦇**
 
-- 💬 Ask me about **Flutter, Dart, Firebase.**
+![desktop-wallpaper-batman-phone-cool-batman-phone-batman-batman-lockscreen-batman-funny-iphone](https://github.com/BabaVoos/BabaVoos/assets/91697196/fbec58b3-bc33-4117-abfd-8b87b232fafc)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## ℹ️ About Me
+
+
+- 🔭 I’m currently a Mobile Application Developer **Flutter**
+
+- 🌱 I’m currently learning Advanced Flutter
 
 - 📫 Feel free to reach me out **mudarabdulhadi@gmail.com**
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/voue882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="voue882" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mudar-voos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudar-voos" height="30" width="40" /></a>
-<a href="https://instagram.com/mudar_bv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudar_bv" height="30" width="40" /></a>
-</p>
+## 💻 Languages and Tools
+<div align="start">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,python,flask" /><br>
+</div>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+## 📊 My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BabaVoos&show_icons=true&locale=en&layout=compact" alt="BabaVoos" /></p>
+<div align="start">
+    <a href="https://github.com/BabaVoos/github-readme-stats">
+        <img alt="Mudar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabaVoos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=c%2B%2B" />
+    </a>
+    <a href="https://github.com/BabaVoos/github-readme-stats">
+        <img alt="Mudar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabaVoos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</div>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
+## 🤝 Connect With Me
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/mudar-voos-521424240/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    
+  <a href="https://instagram.com/mudar_bv/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+  <a href="mailto:mudarabdulhadi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;">
+</h3>
+<br>
